@@ -17,3 +17,7 @@ Topics Covered
 5. Artificial Neural Network(ANN)
 6. Data Augmentation
 7. Dropout layer 
+8. Long Short Term Memory (LSTM)
+9. Gated Recurrent Unit (GRU)
+10. Deep RNN
+11. Bidirectional RNN
